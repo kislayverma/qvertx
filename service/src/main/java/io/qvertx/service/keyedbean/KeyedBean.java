@@ -6,8 +6,6 @@ package io.qvertx.service.keyedbean;
  * which extends this and should ensure that all implementations provide different keys. 
  * 
  * @author Kislay Verma
- * @see "http://opengrok.mynt.myntra.com:10000/source/xref/ordermanagement/oms-service/src/main/java/com/myntra/oms/strategy/splitting/SplittingStrategy.java"
- * @see "http://opengrok.mynt.myntra.com:10000/source/xref/ordermanagement/oms-service/src/main/java/com/myntra/oms/strategy/splitting/SplitReleasesByLine.java"
  */
 public interface KeyedBean {
 
